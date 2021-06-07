@@ -1,0 +1,52 @@
+MotorApp::Logs: Starts!
+Info::Manager::passGui: GUI reference cached
+Info::SerialDriver::establishConnection: Connection established
+Info::SerialDriver::__CheckConnection: Connection is Closed, no Data available!
+Info::SerialDriver::connect: Connected
+Info::Manager::PidReq: PID request  ON.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::setPidValsReq: Requested change of PID values: Kp: 0.233, Ki: 4.66, Kd: 0.002796.
+Info::Manager::setPidValsReq: Requested change of PID values: Kp: 0.233, Ki: 4.66, Kd: 0.002796.
+Info::Manager::setPidValsReq: Requested change of PID values: Kp: 0.233, Ki: 4.66, Kd: 0.002796.
+Info::Manager::setTargetRpmValReq: Requested change of rpm PID target value: 2000.
+Info::Manager::setTargetRpmValReq: Requested change of rpm PID target value: 2000.
+Info::Manager::PidReq: PID request  OFF.
+Info::Manager::rpmSubscriptionReq: Subscription data  Cancell.
+Info::Manager::PidReq: PID request  ON.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::motDirReq: Motor direction change to the Left request.
+Info::Manager::motDirReq: Motor direction change to the Right request.
+Info::Manager::resetDeviceReq: Requested regulator reset!
+Info::Manager::PidReq: PID request  ON.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::motDirReq: Motor direction change to the Left request.
+Info::Manager::setTargetRpmValReq: Requested change of motor speed: 30.
+Info::Manager::PidReq: PID request  OFF.
+Info::Manager::rpmSubscriptionReq: Subscription data  Cancell.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::setServoAngleReq: Requested change of servo value: 30.
+Info::Manager::setServoAngleReq: Requested change of servo value: 0.
+Info::Manager::setPidValsReq: Requested change of PID values: Kp: 0.233, Ki: 4.66, Kd: 0.002796.
+Info::Manager::PidReq: PID request  ON.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::setTargetRpmValReq: Requested change of motor speed: 30.
+Info::Manager::PidReq: PID request  OFF.
+Info::Manager::rpmSubscriptionReq: Subscription data  Cancell.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::PidReq: PID request  ON.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::reconnectWithNewPort: Requested reconnection
+Info::Manager::PidReq: PID request  OFF.
+Info::Manager::rpmSubscriptionReq: Subscription data  Cancell.
+Info::SerialDriver::changePort: Connection port changed to: COM4
+Info::SerialDriver::establishConnection: Connection established
+Info::SerialDriver::__CheckConnection: Connection is Closed, no Data available!
+Info::SerialDriver::connect: Connected
+Info::Manager::reconnectWithNewPort: Successfully reconnected
+Info::Manager::PidReq: PID request  ON.
+Info::Manager::rpmSubscriptionReq: Subscription data  Request.
+Info::Manager::PidReq: PID request  OFF.
+Info::Manager::rpmSubscriptionReq: Subscription data  Cancell.
+Info::AppGui::_quit: Appllication exits
+Info::Manager::resetDeviceReq: Requested regulator reset!
+Info::SerialDriver::disconnect: Disconnected
